@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecipeVideo</string>
+    <string name="pause">pause</string>
+    <string name="play">play</string>
+    <string name="restart">restart</string>
+    <string name="guess">Recipe</string>
+    <string name="notification_text">Recipe Steps</string>
+    <string name="next">NEXT</string>
+    <string name="no_video">NOVideo</string>
+    <string name="recipe">recipe</string>
+    <string name="steps">steps</string>
+</resources>
